@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @visiongirles @duckate or Kate
 - 👀 I’m interested in iOS programming
-- 🌱 I’m currently learning Swift and making my way towards a drawing app (color book) 
-- 💞️ I’m looking to collaborate on anything, open to new ideas
+- 🌱 I’m currently learning Swift and going to attend School 42
+- 💞️ I’m a good friend to Python, C/C++
 - 📫 You can hit me by busy.sychenko @ gmail.com (delete spaces before and after @)
 
 <!---
