@@ -1,6 +1,6 @@
-- 🤠 Hi, I’m @visiongirles @duckate or Kate
-- 🍎 I’m interested in iOS programming
-- 🐈‍⬛ I’m currently learning Swift, cracking LeetCode and HackerRank
+- 👾 Hi, I’m @visiongirles @duckate or Kate
+- 🍏 I’m interested in iOS programming
+- 👩🏼‍💻 But currently learning CSS
 - 🐍 Also I’m a good friend to Python, C/C++
 
 <!---
