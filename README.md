@@ -1,7 +1,8 @@
-- 👾 Hi, I’m @visiongirles @duckate or Kate
-- 🍏 I’m interested in iOS programming
-- 👩🏼‍💻 But currently learning CSS
-- 🐍 Also I’m a good friend to Python, C/C++
+- 🌕 Hi, I’m @visiongirles @duckate or Kate
+- 🌖 Started Mobile Dev: iOS and Swift
+- 🌗 Currently learning Frontend: HTML, CSS, JavaScript
+- 🌘 Also I’m a good friend to Python, C/C++
+- 🌑 Attended Sber School 21 and Yandex Summer MobileDev School
 
 <!---
 visiongirles/visiongirles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
