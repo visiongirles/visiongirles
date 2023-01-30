@@ -1,6 +1,6 @@
 - 🌕 Hi, I’m @visiongirles @duckate or Kate
 - 🌖 Started with Mobile Dev: iOS and Swift
-- 🌗 Currently learning Frontend: HTML, CSS, JavaScript, React
+- 🌗 Currently learning Frontend: HTML, CSS, JavaScript, React. Quick update: deep diving into sockets & C
 - 🌘 Also I’m a good friend to Python, C/C++
 - 🌑 Attended Sber School 21 and Yandex Summer MobileDev School
 
