@@ -67,3 +67,7 @@ by R.Thareja
 
 # Commits snake history
 ![snake svg](https://github.com/visiongirles/visiongirles/blob/output/github-contribution-grid-snake.svg)
+
+# Contact me
+- <a href="mailto:busy.sychenko@gmail.com">Email</a> me
+- <a href="https://t.me/duckate">Telegram</a> me
