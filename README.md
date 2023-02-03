@@ -70,4 +70,4 @@ by R.Thareja
 
 # Contact me
 📧<a href="mailto:busy.sychenko@gmail.com">Email</a> me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱<a href="https://t.me/duckate">Telegram</a> me
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👩‍💻<a href="https://leetcode.com/visiongirles/">Leetcode</a> & <a href="https://www.hackerrank.com/busy_sychenko">HackerRank</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧙‍♀️<a href="https://www.linkedin.com/in/kate-sychenko-50456a57/">LinkedIn</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👩‍💻<a href="https://leetcode.com/visiongirles/">Leetcode</a> & <a href="https://www.hackerrank.com/busy_sychenko">HackerRank</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧙‍♀️<a href="https://www.linkedin.com/in/kate-sychenko-50456a57/">LinkedIn</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☕<a href="https://www.buymeacoffee.com/duckate">Support</a> me 
