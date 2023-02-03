@@ -69,7 +69,5 @@ by R.Thareja
 ![snake svg](https://github.com/visiongirles/visiongirles/blob/output/github-contribution-grid-snake.svg)
 
 # Contact me
-- 📧<a href="mailto:busy.sychenko@gmail.com">Email</a> me
-- 📱<a href="https://t.me/duckate">Telegram</a> me
-- 👩‍💻<a href="https://leetcode.com/visiongirles/">Leetcode</a> & <a href="https://www.hackerrank.com/busy_sychenko">HackerRank</a> 
-- 🧙‍♀️<a href="https://www.linkedin.com/in/kate-sychenko-50456a57/">LinkedIn</a>
+📧<a href="mailto:busy.sychenko@gmail.com">Email</a> me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱<a href="https://t.me/duckate">Telegram</a> me
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👩‍💻<a href="https://leetcode.com/visiongirles/">Leetcode</a> & <a href="https://www.hackerrank.com/busy_sychenko">HackerRank</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧙‍♀️<a href="https://www.linkedin.com/in/kate-sychenko-50456a57/">LinkedIn</a>
