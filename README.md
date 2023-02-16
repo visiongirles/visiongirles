@@ -8,7 +8,6 @@
 
 # Stack
 ![unix](https://github.com/visiongirles/visiongirles/blob/main/logo/unix-logo.png)
-![cmd-line](https://github.com/visiongirles/visiongirles/blob/main/logo/cmd-line-logo.png)
 ![bash](https://github.com/visiongirles/visiongirles/blob/main/logo/bash-logo.png)
 ![vsc](https://github.com/visiongirles/visiongirles/blob/main/logo/vsc-logo.png)
 ![c](https://github.com/visiongirles/visiongirles/blob/main/logo/c-logo.png)
