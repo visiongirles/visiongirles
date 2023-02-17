@@ -7,17 +7,8 @@
 - 🌑 Attended Sber School 21 and Yandex Summer MobileDev School
 
 # Stack
-![unix](https://github.com/visiongirles/visiongirles/blob/main/logo/unix-logo.png)
-![bash](https://github.com/visiongirles/visiongirles/blob/main/logo/bash-logo.png)
-![vsc](https://github.com/visiongirles/visiongirles/blob/main/logo/vsc-logo.png)
-![c](https://github.com/visiongirles/visiongirles/blob/main/logo/c-logo.png)
-![cpp](https://github.com/visiongirles/visiongirles/blob/main/logo/cpp-logo.png)
-![html css js](https://github.com/visiongirles/visiongirles/blob/main/logo/html-css-js-logo.png)
-![react](https://github.com/visiongirles/visiongirles/blob/main/logo/react-js-logo.png)
-![python](https://github.com/visiongirles/visiongirles/blob/main/logo/python-logo.png)
-![swift](https://github.com/visiongirles/visiongirles/blob/main/logo/swift-logo.png)
-![swiftui](https://github.com/visiongirles/visiongirles/blob/main/logo/swiftui-logo.png)
-![xcode](https://github.com/visiongirles/visiongirles/blob/main/logo/xcode-logo.png)
+<img alt="linux" height="50px" src="logo/linux-logo.png" /> <img alt="bash" height="50px" src="logo/bash-logo.png" /> <img alt="vsc" height="50px" src="logo/vsc-logo.png" /> <img alt="c" height="50px" src="logo/c-logo.png" /><img alt="cpp" height="50px" src="logo/cpp-logo.png" /> <img alt="html css js" height="50px" src="logo/html-css-js-logo.png" /> <img alt="react" height="50px" src="logo/react-js-logo.png" /> <img alt="python" height="50px" src="logo/python-logo.png" /> <img alt="swift" height="50px" src="logo/swift-logo.png" /> <img alt="swiftui" height="50px" src="logo/swiftui-logo.png" /><img alt="xcode" height="50px" src="logo/xcode-logo.png" />
+
 
 
 # Personal library
