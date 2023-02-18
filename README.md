@@ -7,7 +7,7 @@
 - 🌑 Attended Sber School 21 and Yandex Summer MobileDev School
 
 # Stack
-<img alt="linux" height="50px" src="logo/linux-logo.png" /> <img alt="bash" height="50px" src="logo/bash-logo.png" /> <img alt="vsc" height="50px" src="logo/vsc-logo.png" /> <img alt="c" height="50px" src="logo/c-logo.png" /><img alt="cpp" height="50px" src="logo/cpp-logo.png" /> <img alt="html css js" height="50px" src="logo/html-css-js-logo.png" /> <img alt="react" height="50px" src="logo/react-logo.png" /> <img alt="python" height="50px" src="logo/python-logo.png" /> <img alt="swift" height="50px" src="logo/swift-logo.png" /> <img alt="swiftui" height="50px" src="logo/swiftui-logo.png" /><img alt="xcode" height="50px" src="logo/xcode-logo.png" />
+<img alt="linux" height="50px" src="logo/linux-logo.png" /> <img alt="bash" height="50px" src="logo/bash-logo.png" /> <img alt="vsc" height="50px" src="logo/vsc-logo.png" /> <img alt="c" height="50px" src="logo/c-logo.png" /> <img alt="cpp" height="50px" src="logo/cpp-logo.png" /> <img alt="html css js" height="50px" src="logo/html-css-js-logo.png" /> <img alt="react" height="50px" src="logo/react-logo.png" /> <img alt="python" height="50px" src="logo/python-logo.png" /> <img alt="swift" height="50px" src="logo/swift-logo.png" /> <img alt="swiftui" height="50px" src="logo/swiftui-logo.png" /><img alt="xcode" height="50px" src="logo/xcode-logo.png" />
 
 
 
