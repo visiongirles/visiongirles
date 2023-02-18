@@ -21,7 +21,7 @@ by K.Grant
 
 ## From-cover-to-cover
 - _Grokking Algorithms_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-by A.Bhargava (🙏🐙Cthulhu bless the author)
+by A.Bhargava 🙏🐙Cthulhu bless the author
 - _Beej’s Guide to Network Programming_
 &nbsp;
 by B.Hall
