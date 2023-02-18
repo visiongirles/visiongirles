@@ -39,6 +39,7 @@ https://en.bem.info/methodology/
 https://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528
 http://tallys.github.io/color-theory/
 <i>Clean Code</i>                            by R. Martin
+<i>Web Performance in Action</i> (maybe?)    by J. Wagner 
 </pre>
 # Commits snake history
 ![snake svg](https://github.com/visiongirles/visiongirles/blob/output/github-contribution-grid-snake.svg)
