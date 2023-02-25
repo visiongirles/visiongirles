@@ -12,13 +12,14 @@
 # Personal library
 ## Current read
 <pre>
-<i>CSS in Depth</i>                          by K. Grant
+Has not been decided yet
 </pre>
 
 ## From-cover-to-cover
 <pre>
 <i>Grokking Algorithms</i>                   by A. Bhargava 🙏🐙Cthulhu bless the author
 <i>Beej’s Guide to Network Programming</i>   by B. Hall
+<i>CSS in Depth</i>                          by K. Grant
 <i>SwiftUI Views Quick Start</i>             by M. Moeykens
 <i>All</i>                                   by https://developer.apple.com/swift/
 </pre>
