@@ -12,7 +12,7 @@
 # Personal library
 ## Current read
 <pre>
-Has not been decided yet
+<i>30 Days of React</i>                      by fullstack.io
 </pre>
 
 ## From-cover-to-cover
