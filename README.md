@@ -22,6 +22,7 @@
 <i>CSS in Depth</i>                          by K. Grant
 <i>SwiftUI Views Quick Start</i>             by M. Moeykens
 <i>All</i>                                   by https://developer.apple.com/swift/
+https://flexboxfroggy.com/#ru
 </pre>
 
 ## Had a glance betweens the pages
