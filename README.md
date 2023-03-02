@@ -40,6 +40,7 @@ http://smacss.com/
 https://en.bem.info/methodology/
 https://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528
 http://tallys.github.io/color-theory/
+https://bespoyasov.ru/front-not-pain/#progress
 <i>Clean Code</i>                            by R. Martin
 <i>Web Performance in Action</i> (maybe?)    by J. Wagner 
 </pre>
