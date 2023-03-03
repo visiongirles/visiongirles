@@ -32,6 +32,9 @@ https://github.com/visiongirles/BootstrapDemo
 https://github.com/visiongirles/css-in-depth
 - Overall functionallity practice
 
+## Next task
+https://angular.io/start
+
 # Personal library
 ## Current read
 <pre>
