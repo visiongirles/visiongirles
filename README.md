@@ -35,6 +35,7 @@ https://github.com/visiongirles/css-in-depth
 # Personal library
 ## Current read
 <pre>
+https://learn.javascript.ru/
 <i>30 Days of React</i>                      by fullstack.io
 </pre>
 
