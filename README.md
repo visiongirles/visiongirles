@@ -40,6 +40,7 @@ https://angular.io/start
 ## Current read
 <pre>
 https://learn.javascript.ru/
+<i>Modern Full-Stack Development</i>         by F. Zammetti
 <i>30 Days of React</i>                      by fullstack.io
 </pre>
 
