@@ -35,6 +35,7 @@ https://github.com/visiongirles/css-in-depth
 
 ## Next task
 https://angular.io/start
+https://reactjs.org/
 
 # Personal library
 ## Current read
