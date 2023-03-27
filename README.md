@@ -40,8 +40,8 @@ https://reactjs.org/
 # Personal library
 ## Current read
 <pre>
+React practice
 https://learn.javascript.ru/
-<i>Modern Full-Stack Development</i>         by F. Zammetti
 <i>30 Days of React</i>                      by fullstack.io
 </pre>
 
@@ -63,6 +63,8 @@ https://flexboxfroggy.com/#ru
 <i>C Programming Language</i>                by B. Kernighan and D. Ritchie
 <i>Programming iOS</i> series                by M. Neuburg
 <i>Data Structures Using C</i>               by R. Thareja
+<i>Modern Full-Stack Development</i>         by F. Zammetti
+
 </pre>
 ## Future read:
 <pre>
