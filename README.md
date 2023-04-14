@@ -40,8 +40,8 @@ https://reactjs.org/
 # Personal library
 ## Current read
 <pre>
-React practice
 https://learn.javascript.ru/
+https://www.freecodecamp.org/
 <i>30 Days of React</i>                      by fullstack.io
 </pre>
 
