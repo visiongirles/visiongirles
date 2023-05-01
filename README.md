@@ -43,6 +43,7 @@ https://reactjs.org/
 https://learn.javascript.ru/
 https://www.freecodecamp.org/
 <i>30 Days of React</i>                      by fullstack.io
+<i>Deep work rules for focused success in a distracted world</i>
 </pre>
 
 ## From-cover-to-cover
