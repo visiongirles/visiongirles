@@ -1,6 +1,8 @@
 # Status
 Sep 8, 2023 - welcome back to me. Let's try to get on track with Leetcode. One challenge a day. At least.
 
+Sep 18, 2023 - random update. Keeping focus on studying. Got some day-offs, but in general doing more than one task in LeetCode per day. Tracking the learning highlights at <a href ="https://www.notion.so/JavaScript-Learning-Path-effd2b0e48bd4c3794390124098c217d">Notion</a>
+
 # About
 
 - 🌕 Hi, I’m @visiongirles @duckate or Kate Sychenko
