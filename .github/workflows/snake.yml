@@ -48,7 +48,7 @@ jobs:
 
 
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: razy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
