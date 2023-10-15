@@ -78,7 +78,7 @@ https://bespoyasov.ru/front-not-pain/#progress
 <i>Web Performance in Action</i> (maybe?)    by J. Wagner 
 </pre>
 # Commits snake history
-![snake svg](https://github.com/visiongirles/visiongirles/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/visiongirles/visiongirles/blob/output/github-snake.svg)
 
 # Contact me
 📧<a href="mailto:busy.sychenko@gmail.com">Email</a> me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱<a href="https://t.me/duckate">Telegram</a> me
