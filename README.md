@@ -43,7 +43,6 @@ https://reactjs.org/
 https://learn.javascript.ru/
 https://www.freecodecamp.org/
 <i>30 Days of React</i>                      by fullstack.io
-<i>Deep work rules for focused success in a distracted world</i>
 </pre>
 
 ## From-cover-to-cover
@@ -62,9 +61,9 @@ https://flexboxfroggy.com/#ru
 <i>Pointers in C</i>                         by N. Toppo and H. Dewan
 <i>Modern C</i>                              by J. Gustedt
 <i>C Programming Language</i>                by B. Kernighan and D. Ritchie
-<i>Programming iOS</i> series                by M. Neuburg
 <i>Data Structures Using C</i>               by R. Thareja
-<i>Modern Full-Stack Development</i>         by F. Zammetti
+<i>Programming iOS</i> series                by M. Neuburg
+<i>Modern Full-Stack Development</i>         by F. Zammetti [Do not recommend this book]
 
 </pre>
 ## Future read:
