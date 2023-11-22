@@ -36,15 +36,17 @@ https://github.com/visiongirles/css-in-depth
 - Overall functionallity practice
 
 ## Next task
-https://angular.io/start
-https://reactjs.org/
+https://redux.js.org/
+https://jestjs.io/ (TBC)
+Collab with @jasonviipers and Next.js
+Collab with @inferst on Dudes - Twitch API 
 
 # Personal library
 ## Current read
 <pre>
+https://react.dev/  
 https://learn.javascript.ru/
 https://www.freecodecamp.org/
-<i>30 Days of React</i>                      by fullstack.io
 </pre>
 
 ## From-cover-to-cover
