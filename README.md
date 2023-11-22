@@ -6,7 +6,7 @@
 - 🌘 Also I’m a good friend to Python, C/C++
 - 🌑 Attended Sber School 21 and Yandex Summer MobileDev School
 
-<img title="twitch.tv/duckate" alt="twitch" height="50px" src="logo/twitch-logo.png" /> You can find me live at <a href="twitch.tv/duckate">twitch.tv/duckate</a> every day, except Sunday 
+<img title="https://www.twitch.tv/duckate" alt="twitch" height="50px" src="logo/twitch-logo.png" /> You can find me live at <a href="https://www.twitch.tv/duckate">twitch.tv/duckate</a> every day, except Sunday 
 
 # Stack
 <img title="linux" alt="linux" height="50px" src="logo/linux-logo.png" /><img title="bash" alt="bash" height="50px" src="logo/bash-logo.png" /> <img title="vsc" alt="vsc" height="50px" src="logo/vsc-logo.png" /> <img title="c" alt="c" height="50px" src="logo/c-logo.png" /> <img title="cpp" alt="cpp" height="50px" src="logo/cpp-logo.png" /> <img title="html css js" alt="html css js" height="50px" src="logo/html-css-js-logo.png" /> <img title="typescript" alt="typescript" height="50px" src="logo/typescript-logo.png" /> <img title="react" alt="react" height="50px" src="logo/react-logo.png" /><img title="bootstrap" alt="bootstrap" height="50px" src="logo/bootstrap-logo.png" /> <img title="figma" alt="figma" height="50px" src="logo/figma-logo.png" /> <img title="node-js" alt="node-js" height="50px" src="logo/node-js-logo.png" /> <img title="python" alt="python" height="50px" src="logo/python-logo.png" /><img title="swift" alt="swift" height="50px" src="logo/swift-logo.png" /><img title="swiftui" alt="swiftui" height="50px" src="logo/swiftui-logo.png" /><img title="xcode" alt="xcode" height="50px" src="logo/xcode-logo.png" /> <img title="gitlab" alt="gitlab" height="50px" src="logo/gitlab-logo.png" /> <img title="github" alt="github" height="50px" src="logo/github-logo.png" />
@@ -83,4 +83,4 @@ https://bespoyasov.ru/front-not-pain/#progress
 
 # Contact me
 📧<a href="mailto:busy.sychenko@gmail.com">Email</a> me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱<a href="https://t.me/duckate">Telegram</a> me
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👩‍💻<a href="https://leetcode.com/visiongirles/">Leetcode</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧙‍♀️<a href="https://www.linkedin.com/in/kate-sychenko-50456a57/">LinkedIn</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☕<a href="https://paypal.me/sychenko?country.x=AE&locale.x=en_US">Support</a> me 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👩‍💻<a href="https://leetcode.com/visiongirles/">Leetcode</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧙‍♀️<a href="https://www.linkedin.com/in/kate-sychenko-50456a57/">LinkedIn</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☕<a href="https://paypal.me/sychenko?country.x=AE&locale.x=en_US">Support</a> me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📺 <a href="https://www.twitch.tv/duckate">Watch</a> me 
