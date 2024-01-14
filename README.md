@@ -3,13 +3,13 @@
 - 🌕 Hi, I’m @visiongirles @duckate or Kate Sychenko
 - 🌖 Started with Mobile Dev: iOS and Swift
 - 🌗 Currently learning Front-end
-- 🌘 Also had experience with C && Python
+- 🌘 Also had experience with C
 - 🌑 Attended Sber School 21 and Yandex Summer MobileDev School
 
 <img title="https://www.twitch.tv/duckate" alt="twitch" height="50px" src="logo/twitch-logo.png" /> You can find me live at <a href="https://www.twitch.tv/duckate">twitch.tv/duckate</a> every day, except Sunday 
 
 # Stack
-<img title="bash" alt="bash" height="50px" src="logo/bash-logo.png" /> <img title="vsc" alt="vsc" height="50px" src="logo/vsc-logo.png" /> <img title="c" alt="c" height="50px" src="logo/c-logo.png" /> <img title="html css js" alt="html css js" height="50px" src="logo/html-css-js-logo.png" /> <img title="typescript" alt="typescript" height="50px" src="logo/typescript-logo.png" /> <img title="react" alt="react" height="50px" src="logo/react-logo.png" /><img title="bootstrap" alt="bootstrap" height="50px" src="logo/bootstrap-logo.png" /> <img title="figma" alt="figma" height="50px" src="logo/figma-logo.png" /> <img title="node-js" alt="node-js" height="50px" src="logo/node-js-logo.png" /> <img title="python" alt="python" height="50px" src="logo/python-logo.png" /><img title="swift" alt="swift" height="50px" src="logo/swift-logo.png" /><img title="swiftui" alt="swiftui" height="50px" src="logo/swiftui-logo.png" /><img title="xcode" alt="xcode" height="50px" src="logo/xcode-logo.png" /> <img title="gitlab" alt="gitlab" height="50px" src="logo/gitlab-logo.png" /> <img title="github" alt="github" height="50px" src="logo/github-logo.png" />
+<img title="bash" alt="bash" height="50px" src="logo/bash-logo.png" /> <img title="vsc" alt="vsc" height="50px" src="logo/vsc-logo.png" /> <img title="c" alt="c" height="50px" src="logo/c-logo.png" /> <img title="html css js" alt="html css js" height="50px" src="logo/html-css-js-logo.png" /> <img title="typescript" alt="typescript" height="50px" src="logo/typescript-logo.png" /> <img title="react" alt="react" height="50px" src="logo/react-logo.png" /><img title="bootstrap" alt="bootstrap" height="50px" src="logo/bootstrap-logo.png" /> <img title="figma" alt="figma" height="50px" src="logo/figma-logo.png" /> <img title="node-js" alt="node-js" height="50px" src="logo/node-js-logo.png" /><img title="swift" alt="swift" height="50px" src="logo/swift-logo.png" /><img title="swiftui" alt="swiftui" height="50px" src="logo/swiftui-logo.png" /><img title="xcode" alt="xcode" height="50px" src="logo/xcode-logo.png" /> <img title="gitlab" alt="gitlab" height="50px" src="logo/gitlab-logo.png" /> <img title="github" alt="github" height="50px" src="logo/github-logo.png" />
 
 # Showcase
 ## Frontend
@@ -37,9 +37,8 @@ https://github.com/visiongirles/css-in-depth
 
 ## Next task
 https://redux.js.org/
-https://jestjs.io/ (TBC)
-Collab with @jasonviipers and Next.js
-Collab with @inferst on Dudes - Twitch API 
+https://jestjs.io/ 
+
 
 # Personal library
 ## Current read
