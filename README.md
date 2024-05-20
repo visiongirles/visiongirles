@@ -2,7 +2,7 @@
 
 - 🌕 Hi, I’m @visiongirles @duckate or Kate Sychenko
 - 🌖 Started with Mobile Dev: iOS and Swift
-- 🌗 Currently learning Front-end
+- 🌗 Currently learning Frontend with some Backend 
 - 🌘 Also had experience with C
 - 🌑 Attended Sber School 21 and Yandex Summer MobileDev School
 
