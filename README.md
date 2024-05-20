@@ -36,8 +36,7 @@ https://github.com/visiongirles/css-in-depth
 - Overall functionallity practice
 
 ## Next task
-https://redux.js.org/
-https://jestjs.io/ 
+https://nextjs.org/
 
 
 # Personal library
@@ -46,6 +45,8 @@ https://jestjs.io/
 https://react.dev/  
 https://learn.javascript.ru/
 https://www.freecodecamp.org/
+https://redux.js.org/
+https://jestjs.io/ 
 </pre>
 
 ## From-cover-to-cover
