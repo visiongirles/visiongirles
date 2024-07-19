@@ -41,11 +41,8 @@ https://nextjs.org/
 # Personal library
 ## Current read
 <pre>
-https://react.dev/  
-https://learn.javascript.ru/
-https://www.freecodecamp.org/
-https://redux.js.org/
-https://jestjs.io/ 
+https://app.codecrafters.io/courses/interpreter/overview
+https://craftinginterpreters.com/
 </pre>
 
 ## From-cover-to-cover
@@ -56,6 +53,11 @@ https://jestjs.io/
 <i>SwiftUI Views Quick Start</i>             by M. Moeykens
 <i>All</i>                                   by https://developer.apple.com/swift/
 https://flexboxfroggy.com/#ru
+https://react.dev/  
+https://learn.javascript.ru/
+https://www.freecodecamp.org/
+https://redux.js.org/
+https://jestjs.io/ 
 </pre>
 
 ## Had a glance betweens the pages
@@ -67,17 +69,12 @@ https://flexboxfroggy.com/#ru
 <i>Data Structures Using C</i>               by R. Thareja
 <i>Programming iOS</i> series                by M. Neuburg
 <i>Modern Full-Stack Development</i>         by F. Zammetti [Do not recommend this book]
+<i>Clean Code</i>                            by R. Martin
 
 </pre>
 ## Future read:
 <pre>
-http://smacss.com/ 
-https://en.bem.info/methodology/
-https://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528
-http://tallys.github.io/color-theory/
-https://bespoyasov.ru/front-not-pain/#progress
-<i>Clean Code</i>                            by R. Martin
-<i>Web Performance in Action</i> (maybe?)    by J. Wagner 
+
 </pre>
 # Commits snake history
 ![snake svg](https://github.com/visiongirles/visiongirles/blob/output/github-snake.svg)
