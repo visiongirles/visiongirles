@@ -91,4 +91,4 @@ https://craftinginterpreters.com/
 
 # Contact me
 📧<a href="mailto:busy.sychenko@gmail.com">Email</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱<a href="https://t.me/duckate">Telegram</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👩‍💻<a href="https://leetcode.com/visiongirles/">Leetcode</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧙‍♀️<a href="https://www.linkedin.com/in/kate-sychenko-50456a57/">LinkedIn</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☕<a href="https://paypal.me/sychenko?country.x=AE&locale.x=en_US">Support</a> && <a href="https://www.donationalerts.com/r/duckate"> Support</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📺 <a href="https://www.twitch.tv/duckate">Watch</a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👩‍💻<a href="https://leetcode.com/duckate/">Leetcode</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧙‍♀️<a href="https://www.linkedin.com/in/kate-sychenko-50456a57/">LinkedIn</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☕<a href="https://paypal.me/sychenko?country.x=AE&locale.x=en_US">Support</a> && <a href="https://www.donationalerts.com/r/duckate"> Support</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📺 <a href="https://www.twitch.tv/duckate">Watch</a> 
