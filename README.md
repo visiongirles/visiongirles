@@ -15,17 +15,17 @@
 # Showcase
 
 ## Full-stack
-Build Your Own Telegram like Messanger from scratch
-Frontend https://github.com/visiongirles/Telegram TypeScript
-Backend https://github.com/visiongirles/TelegramServer JavaSript
-Local database - MySQL
+- Build Your Own Telegram like Messanger from scratch
+- Frontend https://github.com/visiongirles/Telegram TypeScript
+- Backend https://github.com/visiongirles/TelegramServer JavaSript
+- Local database - MySQL
 
 
 ## Backend
-Build Your Own Interpretator https://github.com/visiongirles/codecrafters-interpreter-go Go
-Build Your Own Redis https://github.com/visiongirles/Redis-server TypeScript
-Build Your Own HTTP server https://github.com/visiongirles/HTTP-Server JavaSript
-Build Your Own DNS server Go
+- Build Your Own Interpretator https://github.com/visiongirles/codecrafters-interpreter-go Go
+- Build Your Own Redis https://github.com/visiongirles/Redis-server TypeScript
+- Build Your Own HTTP server https://github.com/visiongirles/HTTP-Server JavaSript
+- Build Your Own DNS server Go
 
 
 ## Frontend
