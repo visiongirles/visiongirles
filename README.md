@@ -13,7 +13,26 @@
 <img title="bash" alt="bash" height="50px" src="logo/bash-logo.png" /> <img title="vsc" alt="vsc" height="50px" src="logo/vsc-logo.png" /> <img title="c" alt="c" height="50px" src="logo/c-logo.png" /> <img title="html css js" alt="html css js" height="50px" src="logo/html-css-js-logo.png" /> <img title="typescript" alt="typescript" height="50px" src="logo/typescript-logo.png" /> <img title="react" alt="react" height="50px" src="logo/react-logo.png" /><img title="bootstrap" alt="bootstrap" height="50px" src="logo/bootstrap-logo.png" /> <img title="figma" alt="figma" height="50px" src="logo/figma-logo.png" /> <img title="node-js" alt="node-js" height="50px" src="logo/node-js-logo.png" /><img title="swift" alt="swift" height="50px" src="logo/swift-logo.png" /><img title="swiftui" alt="swiftui" height="50px" src="logo/swiftui-logo.png" /><img title="xcode" alt="xcode" height="50px" src="logo/xcode-logo.png" /> <img title="gitlab" alt="gitlab" height="50px" src="logo/gitlab-logo.png" /> <img title="github" alt="github" height="50px" src="logo/github-logo.png" />
 
 # Showcase
+
+## Full-stack
+Build Your Own Telegram like Messanger from scratch
+Frontend https://github.com/visiongirles/Telegram TypeScript
+Backend https://github.com/visiongirles/TelegramServer JavaSript
+Local database - MySQL
+
+
+## Backend
+Build Your Own Interpretator https://github.com/visiongirles/codecrafters-interpreter-go Go
+Build Your Own Redis https://github.com/visiongirles/Redis-server TypeScript
+Build Your Own HTTP server https://github.com/visiongirles/HTTP-Server JavaSript
+Build Your Own DNS server Go
+
+
 ## Frontend
+https://github.com/visiongirles/TicTacToe
+ - React
+ - Redux Tool Kit
+   
 https://github.com/visiongirles/PiedPiper
 https://github.com/visiongirles/UberEats
 - Flexbox layout
