@@ -15,7 +15,7 @@
 # Showcase
 
 ## Full-stack
-- Build Your Own Telegram like Messanger from scratch
+### Build Your Own Telegram like Messanger from scratch:
 - Frontend https://github.com/visiongirles/Telegram TypeScript
 - Backend https://github.com/visiongirles/TelegramServer JavaSript
 - Local database - MySQL
@@ -35,22 +35,11 @@ https://github.com/visiongirles/TicTacToe
    
 https://github.com/visiongirles/PiedPiper
 https://github.com/visiongirles/UberEats
-- Flexbox layout
-- Grid layout
-- Double container pattern
-- Float & clearfix
-- Link Anchors
-- EM & REM usage
-- Block, Element, Modifier Methodology
+- Flexbox layout, Grid layout, Double container pattern, Float & clearfix, Link Anchors, EM & REM usage, Block, Element, Modifier Methodology
 - Adaptive for Mobile & Desktop
 
 https://github.com/visiongirles/BootstrapDemo
-- Bootstrap
-- WebPack
-- Sass
-- Autoprefixer
-- NodeJS
-- Docker
+- Bootstrap, WebPack, Sass,  Autoprefixer, NodeJS, Docker
 
 https://github.com/visiongirles/css-in-depth
 - Overall functionallity practice
