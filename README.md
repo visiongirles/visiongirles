@@ -25,7 +25,7 @@
 - Build Your Own Interpretator https://github.com/visiongirles/codecrafters-interpreter-go Go
 - Build Your Own Redis https://github.com/visiongirles/Redis-server TypeScript
 - Build Your Own HTTP server https://github.com/visiongirles/HTTP-Server JavaSript
-- Build Your Own DNS server Go
+- Build Your Own DNS server Go https://github.com/visiongirles/DNS-server
 
 
 ## Frontend
