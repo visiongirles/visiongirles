@@ -1,9 +1,11 @@
 # About
 
 - 🌕 Hi, I’m @visiongirles @duckate or Kate Sychenko
-- 🌖 Started with Mobile Dev: iOS and Swift
-- 🌗 Currently learning Frontend with some Backend 
-- 🌘 Had experience with C, Go
+- 🌖 Started with iOS Mobile Dev - Swift
+- 🌗 Current interest in Web Development and Software Development
+- [Frontend] React · Redux Tool Kit · Sass · Bootstrap · Git · Figma
+- [Backend] Node.js · Go · SQL
+- 🌘 Some experience with C, Python
 - 🌑 Attended Sber School 21 and Yandex Summer MobileDev School
 
 <img title="https://www.twitch.tv/duckate" alt="twitch" height="50px" src="logo/twitch-logo.png" /> You can find me live at <a href="https://www.twitch.tv/duckate">twitch.tv/duckate</a> on weekdays
