@@ -6,7 +6,7 @@
 - [Frontend] React · Redux Tool Kit · Sass · Bootstrap · Git · Figma
 - [Backend] Node.js · Go · SQL
 - 🌘 Some experience with C, Python
-- 🌑 Attended Sber School 21 and Yandex Summer MobileDev School
+- 🌑 Attended Sber School 21 and Yandex Summer MobileDev School (2022)
 
 <img title="https://www.twitch.tv/duckate" alt="twitch" height="50px" src="logo/twitch-logo.png" /> You can find me live at <a href="https://www.twitch.tv/duckate">twitch.tv/duckate</a> on weekdays
 # Stack
