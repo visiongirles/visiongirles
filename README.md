@@ -51,8 +51,7 @@ https://nextjs.org/
 # Personal library
 ## Current read
 <pre>
-https://app.codecrafters.io/courses/interpreter/overview
-https://craftinginterpreters.com/
+https://www.rfc-editor.org/rfc/rfc1035
 </pre>
 
 ## From-cover-to-cover
@@ -80,7 +79,8 @@ https://jestjs.io/
 <i>Programming iOS</i> series                by M. Neuburg
 <i>Modern Full-Stack Development</i>         by F. Zammetti [Do not recommend this book]
 <i>Clean Code</i>                            by R. Martin
-
+https://app.codecrafters.io/courses/interpreter/overview
+https://craftinginterpreters.com/
 </pre>
 ## Future read:
 <pre>
